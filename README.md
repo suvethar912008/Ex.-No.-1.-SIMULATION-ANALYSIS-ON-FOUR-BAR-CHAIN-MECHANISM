@@ -53,7 +53,7 @@
 
 
 ## Output:
-img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/35df72ec-4dee-48a7-8833-c5bd68d3f0bf" />
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/35df72ec-4dee-48a7-8833-c5bd68d3f0bf" />
 
 <img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/c91fe6f2-6a58-4ac3-9162-5a9ba80b9e98" />
 
